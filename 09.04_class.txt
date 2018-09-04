@@ -3,7 +3,7 @@ Karl Polanyi - The Great Transformation
 -book published in 1944
 -era of why ww1, great depression, ww2
 -Polanyis saw that the Industrial revolution was connected to the happening (collapse of teh government)
-
+- biography..
 
 -----
 Classical Liberalism
@@ -28,7 +28,7 @@ Social Market vs Free Market
 .. "The passing of marketi economy can become// era of unprecented freedom.. regulation and control can acheive freedom not only for few, but for all"
 .. e.g. wealthy ppl have more choice than ppl who dont have money
 
-Rise of Nation-State in which proces of all goods, labor, changed without regards to effects on society; sefl regulation..
+-Rise of Nation-State in which proces of all goods, labor, changed without regards to effects on society; sefl regulation..
 
 
 -----
@@ -60,13 +60,13 @@ forms of allocation.
 -Forces/Proponents (today)
 ..neoliberals: sectors of big business, finance, expport-based forms, and political allies. A planned attempt using the state to impose the self-regulating market on society; creating a "free market" from social institions through deregulation, privatizatio
 n
--Principles :.. lassez faire...
+-Principles :.. lassez faire...(government intervention emphasis)
 
 
 ----
 Results of the Movement:
--Market foces incompatible with sustainability- broadly defined
--Polanyi argues that left unprotected by social institions, humans will perish from effects..
+-Market foces incompatible with sustainability- broadly defined..
+-Polanyi argues that left unprotected by social institions, humans will perish from effects..e.g" land, money.. food.."
 ..
 ..
 ..
@@ -77,6 +77,10 @@ Countermovement
 -Goal: Social Protection
 -Forces/Proponents: a reaction driven by those most affected by the expanding markets or the commodification of everything
 .. generally a diverse "reaction"...
+..
+..
+..
+
 
 Principles:
 Human rights, protection of the public and public resources..
@@ -87,8 +91,8 @@ Human rights, protection of the public and public resources..
 Polanyi's Agrument: self-regulating economic systems is a myth (Utopia)
 - Free market economy - in which markets are entirely freee from social or political control - is a myth, during the era of laissez faire- created by state coercion and depends on power of governments to work
 
--Role of government and politics: all of the key inputs int economy-land, labor, and money- are social contructions and sustained through government's coercive power (BLock, p.xxvi)
-..financial orgs insits should be free of regulations
+-Role of government and politics: "all of the key inputs int economy-land, labor, and money- are social contructions and sustained through government's coercive power"(BLock, p.xxvi)
+.."financial orgs insits should be free of regulations.."
 
 
 Regulations/Rules:
@@ -102,7 +106,7 @@ SUMMARY:
 -laissez-faire not a method to acheive a thing, it was the thing to be achieved
 -There is nothing nature about laissezfaire, disembedded economies
 -laissezfaire was planned, planning was not
--Our thesis is that idea of self adjusting market implied a stark utopia.."
+-"Our thesis is that idea of self adjusting market implied a stark utopia.."
 -Labor, Land, Money.. are fictious commodities they were not orginally produced and sold on a market... Labor is activity of human beings (social neoliberalism...
 ...
 )
