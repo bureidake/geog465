@@ -5,4 +5,4 @@
 - Fall 2018
 
 
-                        Solutions are going to be encrypted at the end of 2018
+                        
